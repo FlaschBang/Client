@@ -1,0 +1,4 @@
+[{<<"erlzmq">>,
+  {git,"http://github.com/esl/erlzmq.git",
+       {ref,"d24de16eb9b2b8c2271fdacd4d29fd2e18859ab0"}},
+  0}].
