@@ -1,14 +1,13 @@
 client
 =====
 
-An escript
 
 Build
 -----
 
-    $ rebar3 escriptize
+    $ bash ./build.bash
 
 Run
 ---
 
-    $ _build/default/bin/client
+    $ sudo _build/default/bin/client
